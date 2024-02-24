@@ -1,0 +1,7 @@
+Programa
+{
+    Funcao inicio ()
+    {
+          escreva (''olá mundo!!'')
+    }
+}
