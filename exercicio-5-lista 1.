@@ -1,0 +1,11 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Ecreva seu nome: ");
+		cadeia nome;
+		leia (nome);
+		escreva("Seu nome é:", nome)
+	}
+}
