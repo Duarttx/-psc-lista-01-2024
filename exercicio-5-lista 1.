@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Ecreva seu nome: ");
+		escreva("Escreva seu nome: ");
 		cadeia nome;
 		leia (nome);
 		escreva("Seu nome é:", nome)
